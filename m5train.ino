@@ -15,7 +15,7 @@ AudioFileSourceSD *file;
 AudioOutputI2S *out;
 AudioFileSourceID3 *id3;
 
-char auth[] = "PioHkAXrIqXUC0uiHQu3nxcvMGp8PLWz";
+char auth[] = "YOUR_AUTH";
 
 #include <Wire.h>
 #include <Preferences.h>
